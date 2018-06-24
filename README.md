@@ -14,4 +14,4 @@ Known issues:
 * If the filter for Elevators is deselected then selected again, it will show the location that is ment to be added using the add location button. 
 This results in the add location button to appear to have no effect on the since the location is already on screen.
 * Many features of the prototype are placeholder or have specific outcomes such as add location button creates one predetermined location and 
-most inputed text is not recorded due to no actual database only a visual representation of functionality.
+most inputted text is not recorded due to no actual database, only a visual representation of functionality.
