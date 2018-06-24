@@ -15,3 +15,9 @@ Known issues:
 This results in the add location button to appear to have no effect on the since the location is already on screen.
 * Many features of the prototype are placeholder or have specific outcomes such as add location button creates one predetermined location and 
 most inputted text is not recorded due to no actual database, only a visual representation of functionality.
+* When zoomed in the locations do not line up with the clickable building pins
+
+I was focused on creating the main home page for student users which includes the multiple different map and satellite
+views, the filtering of shown locations, profile information menu, logging out of a student user to show the base functionality
+of the site when not logged in, and the creation of the base menu bar which shows and hide all of the options a user has 
+based on the type of user.
